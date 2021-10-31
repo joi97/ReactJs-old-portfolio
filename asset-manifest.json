@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/websiteJoi/static/css/main.4898b865.chunk.css",
+    "main.js": "/websiteJoi/static/js/main.b5b7e998.chunk.js",
+    "main.js.map": "/websiteJoi/static/js/main.b5b7e998.chunk.js.map",
+    "runtime-main.js": "/websiteJoi/static/js/runtime-main.35c78b0d.js",
+    "runtime-main.js.map": "/websiteJoi/static/js/runtime-main.35c78b0d.js.map",
+    "static/css/2.6e8e46b9.chunk.css": "/websiteJoi/static/css/2.6e8e46b9.chunk.css",
+    "static/js/2.46fad4dd.chunk.js": "/websiteJoi/static/js/2.46fad4dd.chunk.js",
+    "static/js/2.46fad4dd.chunk.js.map": "/websiteJoi/static/js/2.46fad4dd.chunk.js.map",
+    "index.html": "/websiteJoi/index.html",
+    "static/css/2.6e8e46b9.chunk.css.map": "/websiteJoi/static/css/2.6e8e46b9.chunk.css.map",
+    "static/css/main.4898b865.chunk.css.map": "/websiteJoi/static/css/main.4898b865.chunk.css.map",
+    "static/js/2.46fad4dd.chunk.js.LICENSE.txt": "/websiteJoi/static/js/2.46fad4dd.chunk.js.LICENSE.txt",
+    "static/media/foto-profilo-sfondo.c9ddfda8.jpg": "/websiteJoi/static/media/foto-profilo-sfondo.c9ddfda8.jpg",
+    "static/media/imgFinale.7df9d6a3.png": "/websiteJoi/static/media/imgFinale.7df9d6a3.png",
+    "static/media/primeicons.css": "/websiteJoi/static/media/primeicons.e61f3495.woff",
+    "static/media/progetto1.39d3548f.png": "/websiteJoi/static/media/progetto1.39d3548f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35c78b0d.js",
+    "static/css/2.6e8e46b9.chunk.css",
+    "static/js/2.46fad4dd.chunk.js",
+    "static/css/main.4898b865.chunk.css",
+    "static/js/main.b5b7e998.chunk.js"
+  ]
+}
